@@ -65,4 +65,4 @@ If the use case involves incrementally loading new match data, the solution woul
 Discuss an instance where I learned a new technique during a project, I also got to explore a lot of things.
 
 **Question 5** Troubleshooting Experience
-For each of these questions, provide detailed and clear answers, drawing from your relevant experience in data engineering or similar fields. These questions aim to evaluate my technical expertise, problem-solving skills, and ability to handle data related challenge
+when I begin writing code. I have a lot of difficulty taking the data table and its columns into consideration. I attempted to answer the issue after taking into consideration the table's column.
